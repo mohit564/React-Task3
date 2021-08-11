@@ -1,0 +1,50 @@
+.cart {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-heading {
+  margin: 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid grey;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-amount {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-subtotal {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-shipping {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-total {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cart-subtotal__price::before,
+.cart-total__price::before {
+  content: "₹";
+  margin-right: 4px;
+}
+
+.checkout {
+  width: 100%;
+  background: #001945;
+  color: white;
+  font-weight: bold;
+  padding-block: 0.5rem;
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "author": "James Clear",
+    "description": "Atomic Habits is the most comprehensive and practical guide on how to create good habits, break bad ones, and get 1 percent better every day. I do not believe you will find a more actionable book on the subject of habits and improvement. If you're having trouble changing your habits, the problem isn't you. The problem is your system.",
+    "image": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
+    "price": 423,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "Ikigai: The Japanese secret to a long and happy life",
+    "author": "Héctor García and Francesc Miralles",
+    "description": "Ikigai is a short but not very short book based on a Japanese concept. According to this concept, we find the deeply sown purpose of our lives from within ourselves by defining our passion, mission, vocation and profession. It gives you tips as to how the simplest things in our life.",
+    "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+    "price": 290,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "author": "Mark Manson",
+    "description": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Mark Manson Collection Book 1) 57,116 Kindle readers highlighted this The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience.",
+    "image": "https://m.media-amazon.com/images/I/71t4GuxLCuL.jpg",
+    "price": 331,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "The Alchemist",
+    "author": "Paulo Coelho ",
+    "description": "The Alchemist is such a book. With over a million and a half copies sold around the world, The Alchemist has already established itself as a modern classic, universally admired. Paulo Coelho's charming fable, now available in English for the first time, will enchant and inspire an even wider audience of readers for generations to come.",
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "price": 190,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Inner Engineering: A Yogi’s Guide to Joy",
+    "author": "Sadhguru",
+    "description": "Inner Engineering is not a book to be read once and set aside. It is a book to be studied, especially for someone new to the path. The keys to the kingdom are in here, but you have to recognize and wade through your own preconceptions, judgments, beliefs, and preferences.",
+    "image": "https://m.media-amazon.com/images/I/91M8VYAZkTL.jpg",
+    "price": 168,
+    "quantity": 0
+  }
+]
